@@ -1,0 +1,6 @@
+{
+  "name": "DSA QUEST",
+  "description": "Master Data Structures & Algorithms in C++ through interactive games, visualizations, quizzes, and coding challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
